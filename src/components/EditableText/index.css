@@ -1,0 +1,39 @@
+.bg-container {
+  height: 100vh;
+  background-color: #cbd2d9;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  padding: 50px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-weight: 700;
+  font-size: 27px;
+}
+input {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #f5d0fe;
+}
+button {
+  padding: 14px;
+  margin: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #d946ef;
+  color: #ffffff;
+  border-radius: 10px;
+}
+.input-values {
+  display: flex;
+}
